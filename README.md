@@ -1,5 +1,4 @@
-**#Movie-recommender-system**
-
+# Movie-recommender-system
 • A content-based movie recommender system 
 • Download all the files • Unzip the tmdb_5000_credits.zip file(Had to zip the main file as its size was large) 
 • Run the 1MOVIE_RECOMMENDER.ipynb on jupyter or google collab 
